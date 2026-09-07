@@ -1,6 +1,38 @@
+# Python environment
 venv/
-data/
-checkpoints/
+.venv/
 __pycache__/
-*.onnx
+*.pyc
+*.pyo
+
+# Secrets
 .env
+
+# Raw/generated dataset files
+data/raw/
+data/processed/
+data/landmarks/
+
+# Keep dataset documentation and split definitions
+!data/
+!data/DATASET.md
+!data/splits/
+!data/splits/*.csv
+
+# Training/model artifacts
+checkpoints/
+*.onnx
+*.pt
+*.pth
+
+# Downloaded MediaPipe model assets
+models/mediapipe/*.task
+
+# Generated outputs
+results/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

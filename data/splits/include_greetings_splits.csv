@@ -1,0 +1,254 @@
+split,parent_label,label,video_path,include_50,local_exists
+train,Greetings,55. Thank you,Greetings/55. Thank you/MVI_9985.MOV,False,True
+train,Greetings,53. Good evening,Greetings/53. Good evening/MVI_0055.MOV,False,True
+train,Greetings,55. Thank you,Greetings/55. Thank you/MVI_9951.MOV,False,True
+train,Greetings,51. Good Morning,Greetings/51. Good Morning/MVI_9969.MOV,False,True
+train,Greetings,54. Good night,Greetings/54. Good night/MVI_9980.MOV,False,True
+train,Greetings,56. Pleased,Greetings/56. Pleased/MVI_0066.MOV,False,True
+train,Greetings,54. Good night,Greetings/54. Good night/MVI_0110.MOV,False,True
+train,Greetings,56. Pleased,Greetings/56. Pleased/MVI_9988.MOV,False,True
+train,Greetings,56. Pleased,Greetings/56. Pleased/MVI_0062.MOV,False,True
+train,Greetings,53. Good evening,Greetings/53. Good evening/MVI_9979.MOV,False,True
+train,Greetings,50. Alright,Greetings/50. Alright/MVI_9923.MOV,False,True
+train,Greetings,52. Good afternoon,Greetings/52. Good afternoon/MVI_0049.MOV,False,True
+train,Greetings,49. How are you,Greetings/49. How are you/MVI_0093.MOV,False,True
+train,Greetings,50. Alright,Greetings/50. Alright/MVI_0038.MOV,False,True
+train,Greetings,50. Alright,Greetings/50. Alright/MVI_0040.MOV,False,True
+train,Greetings,54. Good night,Greetings/54. Good night/MVI_0058.MOV,False,True
+train,Greetings,56. Pleased,Greetings/56. Pleased/MVI_0065.MOV,False,True
+train,Greetings,56. Pleased,Greetings/56. Pleased/MVI_0116.MOV,False,True
+train,Greetings,54. Good night,Greetings/54. Good night/MVI_0057_.MOV,False,True
+train,Greetings,52. Good afternoon,Greetings/52. Good afternoon/MVI_0048.MOV,False,True
+train,Greetings,55. Thank you,Greetings/55. Thank you/MVI_0008.MOV,False,True
+train,Greetings,52. Good afternoon,Greetings/52. Good afternoon/MVI_9939.MOV,False,True
+train,Greetings,48. Hello,Greetings/48. Hello/MVI_9954.MOV,False,True
+train,Greetings,48. Hello,Greetings/48. Hello/MVI_0030.MOV,False,True
+train,Greetings,49. How are you,Greetings/49. How are you/MVI_9985.MOV,False,True
+train,Greetings,48. Hello,Greetings/48. Hello/MVI_9915.MOV,False,True
+train,Greetings,52. Good afternoon,Greetings/52. Good afternoon/MVI_9995.MOV,False,True
+train,Greetings,56. Pleased,Greetings/56. Pleased/MVI_9953.MOV,False,True
+train,Greetings,48. Hello,Greetings/48. Hello/MVI_0038.MOV,False,True
+train,Greetings,53. Good evening,Greetings/53. Good evening/MVI_9940.MOV,False,True
+train,Greetings,52. Good afternoon,Greetings/52. Good afternoon/MVI_0050.MOV,False,True
+train,Greetings,54. Good night,Greetings/54. Good night/MVI_0109.MOV,False,True
+train,Greetings,52. Good afternoon,Greetings/52. Good afternoon/MVI_0102.MOV,False,True
+train,Greetings,51. Good Morning,Greetings/51. Good Morning/MVI_0044.MOV,False,True
+train,Greetings,56. Pleased,Greetings/56. Pleased/MVI_0011.MOV,False,True
+train,Greetings,48. Hello,Greetings/48. Hello/MVI_9982.MOV,False,True
+train,Greetings,49. How are you,Greetings/49. How are you/MVI_9918.MOV,False,True
+train,Greetings,48. Hello,Greetings/48. Hello/MVI_0031.MOV,False,True
+train,Greetings,54. Good night,Greetings/54. Good night/MVI_0057.MOV,False,True
+train,Greetings,53. Good evening,Greetings/53. Good evening/MVI_9999.MOV,False,True
+train,Greetings,51. Good Morning,Greetings/51. Good Morning/MVI_9933.MOV,False,True
+train,Greetings,49. How are you,Greetings/49. How are you/MVI_0035.MOV,False,True
+train,Greetings,49. How are you,Greetings/49. How are you/MVI_9986.MOV,False,True
+train,Greetings,51. Good Morning,Greetings/51. Good Morning/MVI_9968.MOV,False,True
+train,Greetings,51. Good Morning,Greetings/51. Good Morning/MVI_0045.MOV,False,True
+train,Greetings,51. Good Morning,Greetings/51. Good Morning/MVI_9970.MOV,False,True
+train,Greetings,54. Good night,Greetings/54. Good night/MVI_9982.MOV,False,True
+train,Greetings,52. Good afternoon,Greetings/52. Good afternoon/MVI_0046.MOV,False,True
+train,Greetings,55. Thank you,Greetings/55. Thank you/MVI_0063.MOV,False,True
+train,Greetings,49. How are you,Greetings/49. How are you/MVI_0092.MOV,False,True
+train,Greetings,53. Good evening,Greetings/53. Good evening/MVI_0054.MOV,False,True
+train,Greetings,49. How are you,Greetings/49. How are you/MVI_0042.MOV,False,True
+train,Greetings,56. Pleased,Greetings/56. Pleased/MVI_0010.MOV,False,True
+train,Greetings,54. Good night,Greetings/54. Good night/MVI_0059.MOV,False,True
+train,Greetings,50. Alright,Greetings/50. Alright/MVI_9966.MOV,False,True
+train,Greetings,50. Alright,Greetings/50. Alright/MVI_0096.MOV,False,True
+train,Greetings,52. Good afternoon,Greetings/52. Good afternoon/MVI_9975.MOV,False,True
+train,Greetings,51. Good Morning,Greetings/51. Good Morning/MVI_9991.MOV,False,True
+train,Greetings,52. Good afternoon,Greetings/52. Good afternoon/MVI_0047.MOV,False,True
+train,Greetings,53. Good evening,Greetings/53. Good evening/MVI_9943.MOV,False,True
+train,Greetings,50. Alright,Greetings/50. Alright/MVI_9990.MOV,False,True
+train,Greetings,49. How are you,Greetings/49. How are you/MVI_0034.MOV,False,True
+train,Greetings,50. Alright,Greetings/50. Alright/MVI_0095.MOV,False,True
+train,Greetings,55. Thank you,Greetings/55. Thank you/MVI_9949.MOV,False,True
+train,Greetings,56. Pleased,Greetings/56. Pleased/MVI_9989.MOV,False,True
+train,Greetings,50. Alright,Greetings/50. Alright/MVI_9926.MOV,False,True
+train,Greetings,48. Hello,Greetings/48. Hello/MVI_0090.MOV,False,True
+train,Greetings,52. Good afternoon,Greetings/52. Good afternoon/MVI_9973.MOV,False,True
+train,Greetings,55. Thank you,Greetings/55. Thank you/MVI_0112.MOV,False,True
+train,Greetings,53. Good evening,Greetings/53. Good evening/MVI_0107.MOV,False,True
+train,Greetings,48. Hello,Greetings/48. Hello/MVI_0091.MOV,False,True
+train,Greetings,52. Good afternoon,Greetings/52. Good afternoon/MVI_9996.MOV,False,True
+train,Greetings,48. Hello,Greetings/48. Hello/MVI_0032.MOV,False,True
+train,Greetings,55. Thank you,Greetings/55. Thank you/MVI_9984.MOV,False,True
+train,Greetings,49. How are you,Greetings/49. How are you/MVI_0040.MOV,False,True
+train,Greetings,48. Hello,Greetings/48. Hello/MVI_0037.MOV,False,True
+train,Greetings,51. Good Morning,Greetings/51. Good Morning/MVI_0048.MOV,False,True
+train,Greetings,55. Thank you,Greetings/55. Thank you/MVI_0062.MOV,False,True
+train,Greetings,55. Thank you,Greetings/55. Thank you/MVI_0061.MOV,False,True
+train,Greetings,56. Pleased,Greetings/56. Pleased/MVI_0063.MOV,False,True
+train,Greetings,51. Good Morning,Greetings/51. Good Morning/MVI_0098.MOV,False,True
+train,Greetings,53. Good evening,Greetings/53. Good evening/MVI_0106.MOV,False,True
+train,Greetings,53. Good evening,Greetings/53. Good evening/MVI_9942.MOV,False,True
+train,Greetings,49. How are you,Greetings/49. How are you/MVI_0036.MOV,False,True
+train,Greetings,49. How are you,Greetings/49. How are you/MVI_0094.MOV,False,True
+train,Greetings,50. Alright,Greetings/50. Alright/MVI_9963.MOV,False,True
+train,Greetings,51. Good Morning,Greetings/51. Good Morning/MVI_9993.MOV,False,True
+train,Greetings,54. Good night,Greetings/54. Good night/MVI_005_6.MOV,False,True
+train,Greetings,50. Alright,Greetings/50. Alright/MVI_0043.MOV,False,True
+train,Greetings,54. Good night,Greetings/54. Good night/MVI_0002.MOV,False,True
+train,Greetings,56. Pleased,Greetings/56. Pleased/MVI_0067.MOV,False,True
+train,Greetings,52. Good afternoon,Greetings/52. Good afternoon/MVI_9974.MOV,False,True
+train,Greetings,50. Alright,Greetings/50. Alright/MVI_9925.MOV,False,True
+train,Greetings,53. Good evening,Greetings/53. Good evening/MVI_9998.MOV,False,True
+train,Greetings,53. Good evening,Greetings/53. Good evening/MVI_9978.MOV,False,True
+train,Greetings,52. Good afternoon,Greetings/52. Good afternoon/MVI_0103.MOV,False,True
+train,Greetings,50. Alright,Greetings/50. Alright/MVI_9965.MOV,False,True
+train,Greetings,56. Pleased,Greetings/56. Pleased/MVI_0114.MOV,False,True
+train,Greetings,51. Good Morning,Greetings/51. Good Morning/MVI_0046.MOV,False,True
+train,Greetings,56. Pleased,Greetings/56. Pleased/MVI_9990.MOV,False,True
+train,Greetings,48. Hello,Greetings/48. Hello/MVI_9917.MOV,False,True
+train,Greetings,50. Alright,Greetings/50. Alright/MVI_0097.MOV,False,True
+train,Greetings,55. Thank you,Greetings/55. Thank you/MVI_0006.MOV,False,True
+train,Greetings,51. Good Morning,Greetings/51. Good Morning/MVI_9932.MOV,False,True
+train,Greetings,54. Good night,Greetings/54. Good night/MVI_0003.MOV,False,True
+train,Greetings,49. How are you,Greetings/49. How are you/MVI_9919.MOV,False,True
+train,Greetings,54. Good night,Greetings/54. Good night/MVI_9945.MOV,False,True
+train,Greetings,48. Hello,Greetings/48. Hello/MVI_0089.MOV,False,True
+train,Greetings,55. Thank you,Greetings/55. Thank you/MVI_0113.MOV,False,True
+train,Greetings,53. Good evening,Greetings/53. Good evening/MVI_0001.MOV,False,True
+train,Greetings,56. Pleased,Greetings/56. Pleased/MVI_0115.MOV,False,True
+train,Greetings,56. Pleased,Greetings/56. Pleased/MVI_9955.MOV,False,True
+train,Greetings,50. Alright,Greetings/50. Alright/MVI_0037.MOV,False,True
+train,Greetings,49. How are you,Greetings/49. How are you/MVI_9960.MOV,False,True
+train,Greetings,51. Good Morning,Greetings/51. Good Morning/MVI_0047.MOV,False,True
+train,Greetings,55. Thank you,Greetings/55. Thank you/MVI_0060_.MOV,False,True
+train,Greetings,48. Hello,Greetings/48. Hello/MVI_9957.MOV,False,True
+train,Greetings,55. Thank you,Greetings/55. Thank you/MVI_9986.MOV,False,True
+train,Greetings,48. Hello,Greetings/48. Hello/MVI_9955.MOV,False,True
+train,Greetings,49. How are you,Greetings/49. How are you/MVI_9921.MOV,False,True
+train,Greetings,51. Good Morning,Greetings/51. Good Morning/MVI_0100.MOV,False,True
+train,Greetings,51. Good Morning,Greetings/51. Good Morning/MVI_0042.MOV,False,True
+train,Greetings,54. Good night,Greetings/54. Good night/MVI_0056.MOV,False,True
+train,Greetings,49. How are you,Greetings/49. How are you/MVI_9961.MOV,False,True
+train,Greetings,48. Hello,Greetings/48. Hello/MVI_9916.MOV,False,True
+train,Greetings,55. Thank you,Greetings/55. Thank you/MVI_0058.MOV,False,True
+train,Greetings,50. Alright,Greetings/50. Alright/MVI_9964.MOV,False,True
+train,Greetings,54. Good night,Greetings/54. Good night/MVI_9983.MOV,False,True
+train,Greetings,54. Good night,Greetings/54. Good night/MVI_9944.MOV,False,True
+train,Greetings,52. Good afternoon,Greetings/52. Good afternoon/MVI_0101.MOV,False,True
+train,Greetings,53. Good evening,Greetings/53. Good evening/MVI_9977.MOV,False,True
+train,Greetings,55. Thank you,Greetings/55. Thank you/MVI_0007.MOV,False,True
+train,Greetings,55. Thank you,Greetings/55. Thank you/MVI_0111.MOV,True,True
+train,Greetings,48. Hello,Greetings/48. Hello/MVI_0090.MOV,True,True
+train,Greetings,48. Hello,Greetings/48. Hello/MVI_9983.MOV,True,True
+train,Greetings,48. Hello,Greetings/48. Hello/MVI_0038.MOV,True,True
+train,Greetings,51. Good Morning,Greetings/51. Good Morning/MVI_9932.MOV,True,True
+train,Greetings,55. Thank you,Greetings/55. Thank you/MVI_9985.MOV,True,True
+train,Greetings,48. Hello,Greetings/48. Hello/MVI_0032.MOV,True,True
+train,Greetings,48. Hello,Greetings/48. Hello/MVI_0089.MOV,True,True
+train,Greetings,51. Good Morning,Greetings/51. Good Morning/MVI_9933.MOV,True,True
+train,Greetings,48. Hello,Greetings/48. Hello/MVI_0037.MOV,True,True
+train,Greetings,51. Good Morning,Greetings/51. Good Morning/MVI_9968.MOV,True,True
+train,Greetings,51. Good Morning,Greetings/51. Good Morning/MVI_0048.MOV,True,True
+train,Greetings,55. Thank you,Greetings/55. Thank you/MVI_0062.MOV,True,True
+train,Greetings,51. Good Morning,Greetings/51. Good Morning/MVI_0045.MOV,True,True
+train,Greetings,51. Good Morning,Greetings/51. Good Morning/MVI_9970.MOV,True,True
+train,Greetings,48. Hello,Greetings/48. Hello/MVI_9914.MOV,True,True
+train,Greetings,51. Good Morning,Greetings/51. Good Morning/MVI_0047.MOV,True,True
+train,Greetings,55. Thank you,Greetings/55. Thank you/MVI_0061.MOV,True,True
+train,Greetings,51. Good Morning,Greetings/51. Good Morning/MVI_0098.MOV,True,True
+train,Greetings,51. Good Morning,Greetings/51. Good Morning/MVI_9935.MOV,True,True
+train,Greetings,55. Thank you,Greetings/55. Thank you/MVI_9986.MOV,True,True
+train,Greetings,48. Hello,Greetings/48. Hello/MVI_9955.MOV,True,True
+train,Greetings,51. Good Morning,Greetings/51. Good Morning/MVI_0100.MOV,True,True
+train,Greetings,55. Thank you,Greetings/55. Thank you/MVI_0063.MOV,True,True
+train,Greetings,51. Good Morning,Greetings/51. Good Morning/MVI_0042.MOV,True,True
+train,Greetings,55. Thank you,Greetings/55. Thank you/MVI_0059.MOV,True,True
+train,Greetings,55. Thank you,Greetings/55. Thank you/MVI_9950.MOV,True,True
+train,Greetings,48. Hello,Greetings/48. Hello/MVI_9984.MOV,True,True
+train,Greetings,48. Hello,Greetings/48. Hello/MVI_9916.MOV,True,True
+train,Greetings,55. Thank you,Greetings/55. Thank you/MVI_0060.MOV,True,True
+train,Greetings,55. Thank you,Greetings/55. Thank you/MVI_0058.MOV,True,True
+train,Greetings,55. Thank you,Greetings/55. Thank you/MVI_0008.MOV,True,True
+train,Greetings,51. Good Morning,Greetings/51. Good Morning/MVI_9991.MOV,True,True
+train,Greetings,48. Hello,Greetings/48. Hello/MVI_9954.MOV,True,True
+train,Greetings,51. Good Morning,Greetings/51. Good Morning/MVI_0043.MOV,True,True
+train,Greetings,48. Hello,Greetings/48. Hello/MVI_9956.MOV,True,True
+train,Greetings,51. Good Morning,Greetings/51. Good Morning/MVI_9934.MOV,True,True
+train,Greetings,55. Thank you,Greetings/55. Thank you/MVI_0007.MOV,True,True
+train,Greetings,55. Thank you,Greetings/55. Thank you/MVI_9949.MOV,True,True
+train,Greetings,51. Good Morning,Greetings/51. Good Morning/MVI_0046.MOV,True,True
+train,Greetings,48. Hello,Greetings/48. Hello/MVI_9917.MOV,True,True
+val,Greetings,48. Hello,Greetings/48. Hello/MVI_0039.MOV,True,True
+val,Greetings,51. Good Morning,Greetings/51. Good Morning/MVI_0099.MOV,True,True
+val,Greetings,55. Thank you,Greetings/55. Thank you/MVI_0112.MOV,True,True
+val,Greetings,51. Good Morning,Greetings/51. Good Morning/MVI_0044.MOV,True,True
+val,Greetings,54. Good night,Greetings/54. Good night/MVI_0004.MOV,False,True
+val,Greetings,52. Good afternoon,Greetings/52. Good afternoon/MVI_9936.MOV,False,True
+val,Greetings,50. Alright,Greetings/50. Alright/MVI_0039.MOV,False,True
+val,Greetings,49. How are you,Greetings/49. How are you/MVI_9962.MOV,False,True
+val,Greetings,49. How are you,Greetings/49. How are you/MVI_9987.MOV,False,True
+val,Greetings,52. Good afternoon,Greetings/52. Good afternoon/MVI_9937.MOV,False,True
+val,Greetings,51. Good Morning,Greetings/51. Good Morning/MVI_9935.MOV,False,True
+val,Greetings,55. Thank you,Greetings/55. Thank you/MVI_9987.MOV,False,True
+val,Greetings,56. Pleased,Greetings/56. Pleased/MVI_9952.MOV,False,True
+val,Greetings,50. Alright,Greetings/50. Alright/MVI_9988.MOV,False,True
+val,Greetings,54. Good night,Greetings/54. Good night/MVI_0055.MOV,False,True
+val,Greetings,55. Thank you,Greetings/55. Thank you/MVI_9950.MOV,False,True
+val,Greetings,48. Hello,Greetings/48. Hello/MVI_9984.MOV,False,True
+val,Greetings,53. Good evening,Greetings/53. Good evening/MVI_0053.MOV,False,True
+val,Greetings,51. Good Morning,Greetings/51. Good Morning/MVI_9971.MOV,False,True
+val,Greetings,48. Hello,Greetings/48. Hello/MVI_0039.MOV,False,True
+val,Greetings,56. Pleased,Greetings/56. Pleased/MVI_0068.MOV,False,True
+test,Greetings,51. Good Morning,Greetings/51. Good Morning/MVI_9992.MOV,True,True
+test,Greetings,48. Hello,Greetings/48. Hello/MVI_0031.MOV,True,True
+test,Greetings,55. Thank you,Greetings/55. Thank you/MVI_0060_.MOV,True,True
+test,Greetings,55. Thank you,Greetings/55. Thank you/MVI_9984.MOV,True,True
+test,Greetings,48. Hello,Greetings/48. Hello/MVI_9957.MOV,True,True
+test,Greetings,55. Thank you,Greetings/55. Thank you/MVI_0006.MOV,True,True
+test,Greetings,55. Thank you,Greetings/55. Thank you/MVI_0113.MOV,True,True
+test,Greetings,55. Thank you,Greetings/55. Thank you/MVI_9987.MOV,True,True
+test,Greetings,48. Hello,Greetings/48. Hello/MVI_0029.MOV,True,True
+test,Greetings,51. Good Morning,Greetings/51. Good Morning/MVI_9971.MOV,True,True
+test,Greetings,55. Thank you,Greetings/55. Thank you/MVI_9948.MOV,True,True
+test,Greetings,48. Hello,Greetings/48. Hello/MVI_0030.MOV,True,True
+test,Greetings,51. Good Morning,Greetings/51. Good Morning/MVI_9993.MOV,True,True
+test,Greetings,48. Hello,Greetings/48. Hello/MVI_0091.MOV,True,True
+test,Greetings,48. Hello,Greetings/48. Hello/MVI_9915.MOV,True,True
+test,Greetings,55. Thank you,Greetings/55. Thank you/MVI_9951.MOV,True,True
+test,Greetings,51. Good Morning,Greetings/51. Good Morning/MVI_9969.MOV,True,True
+test,Greetings,48. Hello,Greetings/48. Hello/MVI_9982.MOV,True,True
+test,Greetings,55. Thank you,Greetings/55. Thank you/MVI_0111.MOV,False,True
+test,Greetings,48. Hello,Greetings/48. Hello/MVI_9983.MOV,False,True
+test,Greetings,53. Good evening,Greetings/53. Good evening/MVI_005_4 (1).MOV,False,True
+test,Greetings,50. Alright,Greetings/50. Alright/MVI_9989.MOV,False,True
+test,Greetings,53. Good evening,Greetings/53. Good evening/MVI_0052.MOV,False,True
+test,Greetings,50. Alright,Greetings/50. Alright/MVI_0045.MOV,False,True
+test,Greetings,50. Alright,Greetings/50. Alright/MVI_0044.MOV,False,True
+test,Greetings,49. How are you,Greetings/49. How are you/MVI_0041.MOV,False,True
+test,Greetings,54. Good night,Greetings/54. Good night/MVI_0108.MOV,False,True
+test,Greetings,53. Good evening,Greetings/53. Good evening/MVI_005_4 (3).MOV,False,True
+test,Greetings,51. Good Morning,Greetings/51. Good Morning/MVI_9992.MOV,False,True
+test,Greetings,53. Good evening,Greetings/53. Good evening/MVI_9941.MOV,False,True
+test,Greetings,56. Pleased,Greetings/56. Pleased/MVI_9991.MOV,False,True
+test,Greetings,52. Good afternoon,Greetings/52. Good afternoon/MVI_9994.MOV,False,True
+test,Greetings,54. Good night,Greetings/54. Good night/MVI_9947.MOV,False,True
+test,Greetings,55. Thank you,Greetings/55. Thank you/MVI_9948.MOV,False,True
+test,Greetings,51. Good Morning,Greetings/51. Good Morning/MVI_0099.MOV,False,True
+test,Greetings,50. Alright,Greetings/50. Alright/MVI_9924.MOV,False,True
+test,Greetings,52. Good afternoon,Greetings/52. Good afternoon/MVI_0051.MOV,False,True
+test,Greetings,52. Good afternoon,Greetings/52. Good afternoon/MVI_9972.MOV,False,True
+test,Greetings,48. Hello,Greetings/48. Hello/MVI_9914.MOV,False,True
+test,Greetings,56. Pleased,Greetings/56. Pleased/MVI_9954.MOV,False,True
+test,Greetings,52. Good afternoon,Greetings/52. Good afternoon/MVI_0050_ (1).MOV,False,True
+test,Greetings,54. Good night,Greetings/54. Good night/MVI_9981.MOV,False,True
+test,Greetings,53. Good evening,Greetings/53. Good evening/MVI_9976.MOV,False,True
+test,Greetings,53. Good evening,Greetings/53. Good evening/MVI_0105.MOV,False,True
+test,Greetings,53. Good evening,Greetings/53. Good evening/MVI_005_4 (2).MOV,False,True
+test,Greetings,52. Good afternoon,Greetings/52. Good afternoon/MVI_9938.MOV,False,True
+test,Greetings,55. Thank you,Greetings/55. Thank you/MVI_0059.MOV,False,True
+test,Greetings,54. Good night,Greetings/54. Good night/MVI_9946.MOV,False,True
+test,Greetings,49. How are you,Greetings/49. How are you/MVI_0033.MOV,False,True
+test,Greetings,55. Thank you,Greetings/55. Thank you/MVI_0060.MOV,False,True
+test,Greetings,49. How are you,Greetings/49. How are you/MVI_9959.MOV,False,True
+test,Greetings,56. Pleased,Greetings/56. Pleased/MVI_0009.MOV,False,True
+test,Greetings,51. Good Morning,Greetings/51. Good Morning/MVI_0043.MOV,False,True
+test,Greetings,48. Hello,Greetings/48. Hello/MVI_0029.MOV,False,True
+test,Greetings,49. How are you,Greetings/49. How are you/MVI_9920.MOV,False,True
+test,Greetings,48. Hello,Greetings/48. Hello/MVI_9956.MOV,False,True
+test,Greetings,56. Pleased,Greetings/56. Pleased/MVI_0061.MOV,False,True
+test,Greetings,52. Good afternoon,Greetings/52. Good afternoon/MVI_0050_ (2).MOV,False,True
+test,Greetings,51. Good Morning,Greetings/51. Good Morning/MVI_9934.MOV,False,True
