@@ -330,9 +330,9 @@ The final system is intended to provide a practical bridge between Indian Sign L
 
 ## Authors
 
-**Athiena Rachel J**
-**Abishek S**
-**Arun Prakash M**
+**Athiena Rachel J**|
+**Abishek S**|
+**Arun Prakash M**|
 **Ashwin Kumar AP** 
 
 
